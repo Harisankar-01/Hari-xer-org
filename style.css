@@ -1,0 +1,178 @@
+body {
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);*/
+background:url(https://files.catbox.moe/xuma2w.png);
+background-size:cover;
+background-clip:border-box ;
+background-repeat:no-repeat ;
+background-attachment:fixed;
+
+}
+*{
+    padding:0;
+    margin:0;
+}
+::selection{
+    color:red;
+}
+.logo{
+    color:orange;
+    font-family:cursive;
+    padding:20px 10px 10px 20px;
+    
+    
+}
+
+nav{
+    display:flex;
+    position:sticky;
+    justify-content:space-between;
+    border-bottom:2px solid orange;
+    background:black;
+    
+    
+}
+ul li{
+    display:inline-block ;
+    padding:20px 0px 0px 20px; 
+    color:white;
+} 
+ul li:hover{ 
+    animation:menu 1s ease;
+}
+    
+
+@keyframes menu{
+    0%{color:orange;}
+    100%{color:orange;}
+}
+    
+    
+}
+.menu ul a{
+    text-decoration:none;
+    color:white;
+    font-family:cursive;
+    
+
+}
+.about_me{
+    display:flex;
+    justify-content:center;
+    top:50px;
+    padding-top:50px;
+    
+}
+.circle{
+    width:200px;
+    height:200px;
+    border:1px solid white;
+    border-radius:100px;
+    transition:transform 1s ease;   background-image:url("https://files.catbox.moe/m2slad.png");
+    background-size:cover;
+    background-repeat:no-repeat ;
+    
+}
+.circle:hover{
+    transform:scale(1.5);
+}
+.me{
+    padding:20px;
+    text-align:center ;
+}
+.me p{
+    color:white;
+    font-family:cursive;
+    text-transform:capitalize ;
+    
+}
+.me p:first-letter{
+    color:red;
+    
+        
+}
+.prohead h1{
+    text-transform:capitalize ;
+    font-family:cursive ;     
+    color:orange;
+    text-align:center ;
+    text-decoration:underline ;
+    padding-bottom:20px;
+    
+    
+}
+
+.progress{
+    color:white;
+    font-family:cursive;
+    display:grid;
+    gap:10px;
+    justify-content:center ;
+    
+
+}
+header{
+    position:sticky;
+    top:0px;
+}
+progress {
+    border-radius:0px;
+}
+.head{
+    color:orange;
+    text-align:center ;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family:cursive;
+    font-size:15px;
+}
+.footer{
+    width:100%;
+    background: #000000;
+background: #000000;
+background: linear-gradient(60deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 5%, rgba(48, 47, 47, 1) 50%, rgba(0, 0, 0, 1) 25% );
+    border:1px solid ;
+    border-radius:10px 0px 0px 10px;
+    position:sticky;
+    top:0;
+    
+    
+    
+    
+    
+}
+footer p{
+    color:white;
+    font-family:cursive;
+    padding:10px;
+}
+.icons{
+    display:flex;
+    justify-content:center  ;
+    gap:40px;
+    padding-bottom:10px;
+    
+}
+.icons a{
+    color:white;
+    
+}
+h3{
+    font-size:10px;
+    color:white;
+    font-family:cursive;
+    text-align:center ;
+    letter-spacing:5px;
+    padding:10px;
+}
+.about{
+    color:orange;
+    text-align:center ;
+    font-family:cursive;
+    padding-top:25px;
+    margin-top:10px;
+    text-decoration:underline ;
+}
+    
+
+
+ 
