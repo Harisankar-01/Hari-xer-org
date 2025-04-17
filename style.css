@@ -143,6 +143,7 @@ background: linear-gradient(60deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 5%, rgb
 footer p{
     color:white;
     font-family:cursive;
+    padding:10px;
     
 }
 .icons{
