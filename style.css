@@ -132,7 +132,7 @@ background: #000000;
 background: linear-gradient(60deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 5%, rgba(48, 47, 47, 1) 50%, rgba(0, 0, 0, 1) 25% );
     border:1px solid ;
     border-radius:10px 0px 0px 10px;
-    position: absolute;
+    position:reletive;
     
     
     
