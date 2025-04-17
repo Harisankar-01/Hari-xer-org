@@ -43,7 +43,7 @@ ul li:hover{
 }
     
     
-}
+
 .menu ul a{
     text-decoration:none;
     color:white;
@@ -129,12 +129,7 @@ background: linear-gradient(60deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 5%, rgb
     border:1px solid ;
     border-radius:10px 0px 0px 10px;
     position:sticky;
-    top:50px;
-    
-    
-    
-    
-    
+    top:50px;  
     
 }
 footer p{
