@@ -1,5 +1,5 @@
 body {
-background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);*/
+/*background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);*/
 background:url(https://files.catbox.moe/xuma2w.png);
 background-size:cover;
 background-clip:border-box ;
@@ -143,7 +143,7 @@ background: linear-gradient(60deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 5%, rgb
 footer p{
     color:white;
     font-family:cursive;
-    padding:10px;
+    
 }
 .icons{
     display:flex;
