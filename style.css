@@ -7,9 +7,9 @@ background-repeat:no-repeat ;
 background-attachment:fixed;
 
 }
-*{
+/**{
     padding:0;
-    margin:0;
+    margin:0;*/
 }
 ::selection{
     color:red;
