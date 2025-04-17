@@ -3,7 +3,7 @@ body {
 background:url(https://files.catbox.moe/xuma2w.png);
 background-size:cover;
 background-clip:border-box ;
-background-repeat:no-repeat ;
+background-repeat:repeat-y;
 background-attachment:fixed;
 
 }
